@@ -1,0 +1,28 @@
+name: CROONEN
+favicon: null
+layout_spectrum: 0.1253198052290827
+typography_spectrum: 0.7252750154584646
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8114700196310878
+  lightness: 0.054695409489795566
+  saturation: 0.530950874555856
+  rhythmicContrast: 0.9700172648299485
+purpose: []
